@@ -44,7 +44,7 @@ producer-portfolio
    ```
    npm install
    ```
-4. Open `src/index.html` in your web browser to view the portfolio.
+4. Open `index.html` in your web browser to view the portfolio.
 
 ## Usage
 
